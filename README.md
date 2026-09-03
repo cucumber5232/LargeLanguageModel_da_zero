@@ -52,4 +52,4 @@ jupyter notebook
 ##  Risorse
 
 - **Paper**: [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
-- **Tutorial**: [[Nome/link del tutorial che stai seguendo]](https://www.youtube.com/watch?v=yAcWnfsZhzo)
+- **Tutorial**: (https://www.youtube.com/watch?v=yAcWnfsZhzo)
