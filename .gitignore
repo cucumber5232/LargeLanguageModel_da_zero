@@ -56,7 +56,7 @@ pretrained/
 *.csv
 *.json
 *.jsonl
-*.txt
+
 !requirements.txt
 data/
 datasets/
