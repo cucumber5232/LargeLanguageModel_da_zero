@@ -1,5 +1,5 @@
 # ============================================
-# Python Standard (come sopra)
+# Python Standard
 # ============================================
 __pycache__/
 *.py[cod]
@@ -33,14 +33,13 @@ MANIFEST
 env/
 venv/
 ENV/
-cuda/        
+cuda/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-
 
 # Modelli pre-trained (grandi!)
 *.pt
@@ -58,6 +57,7 @@ pretrained/
 *.json
 *.jsonl
 *.txt
+!requirements.txt
 data/
 datasets/
 raw_data/
@@ -83,7 +83,6 @@ wandb/
 
 # Windows
 Thumbs.db
-
 
 # File temporanei
 *.tmp
